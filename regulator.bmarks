@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Arduino Uno" />
+	<File name="Scheduler.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="3489" topLine="90" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="Scheduler.h" open="1" top="0" tabpos="13">
+		<Cursor position="1947" topLine="47" />
+	</File>
+	<File name="log_spec.c" open="1" top="0" tabpos="10">
+		<Cursor position="1530" topLine="10" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="RTDModule.h" open="1" top="0" tabpos="1">
+		<Cursor position="363" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="melody.c" open="1" top="0" tabpos="7">
+		<Cursor position="20" topLine="20" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="editgets.h" open="0" top="0" tabpos="14">
+		<Cursor position="159" topLine="0" />
+	</File>
+	<File name="monitor.h" open="0" top="0" tabpos="13">
+		<Cursor position="1226" topLine="0" />
+	</File>
+	<File name="search.c" open="1" top="0" tabpos="8">
+		<Cursor position="1378" topLine="20" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="regulator.ino" open="1" top="0" tabpos="6">
+		<Cursor position="3855" topLine="177" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="monitor_spec.c" open="1" top="1" tabpos="8">
+		<Cursor position="1461" topLine="28" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="keyboard.c" open="1" top="0" tabpos="12">
+		<Cursor position="1049" topLine="22" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="RTDTrigger.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="467" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="editgets.c" open="1" top="0" tabpos="9">
+		<Cursor position="2753" topLine="93" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="RTDTrigger.h" open="1" top="0" tabpos="3">
+		<Cursor position="46" topLine="0" />
+	</File>
+	<File name="Chrono.h" open="1" top="0" tabpos="5">
+		<Cursor position="127" topLine="0" />
+	</File>
+	<File name="log.h" open="0" top="0" tabpos="11">
+		<Cursor position="1362" topLine="12" />
+	</File>
+	<File name="keyboard.h" open="1" top="0" tabpos="11">
+		<Cursor position="79" topLine="0" />
+	</File>
+	<File name="RTDModule.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="598" topLine="21" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+</BrowseTracker_layout_file>
